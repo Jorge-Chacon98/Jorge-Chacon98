@@ -14,7 +14,7 @@
 <table>
    <tr>
       <td>
-         <a href="https://linkedin.com/shettykaran21">ht 
+         <a href="httphttps://www.instagram.com/jorgechacon.oficial/s://inkedin.com/shettykaran21">ht 
            <img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
          </a>
       </td>
