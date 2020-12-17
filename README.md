@@ -16,7 +16,7 @@
       <td>
       <a ref="https://www.instagram.com/jorgechacon.oficial/">
          <img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-         </a>
+      </a>
       </td>
       <td>
          <a href="https://twitter.com/shettykaran21">
