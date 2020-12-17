@@ -1,6 +1,6 @@
 ## Jorge Chacon  👨‍💻
 
-#### B.Tech. student at Vishwakarma Institute of Technology, Pune.
+####. Jorge, Ingeniero de Sistema y Computacion - Perú.
 ![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
 
 <br />
@@ -90,4 +90,4 @@
 <br />
 <br />
 
-⭐️From [chacon](https://github.com/shettykaran21)
+⭐️From [JChacon](https://github.com/shettykaran21)
